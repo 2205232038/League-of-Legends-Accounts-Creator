@@ -17,7 +17,7 @@ const urls = {
   EUNE: 'https://signup.eune.leagueoflegends.com/en/signup/',
   NA: 'https://signup.na.leagueoflegends.com/en/signup/',
   BR: 'https://signup.br.leagueoflegends.com/pt/signup/index#/',
-  TR: 'https://signup.tr.leagueoflegends.com/tr/signup/index',
+  TR: 'https://signup.leagueoflegends.com/zh-tw/signup/index#/',
   RU: 'https://signup.ru.leagueoflegends.com/ru/signup/index#/',
   OCE: 'https://signup.oce.leagueoflegends.com/en/signup/index/',
   LAN: 'https://signup.lan.leagueoflegends.com/en/signup/index#/',
